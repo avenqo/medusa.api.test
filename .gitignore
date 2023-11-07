@@ -1,0 +1,10 @@
+bin
+.classpath
+.project
+*.class
+target
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
+.log
+.polyglot.build.properties
+**/.DS_Store
